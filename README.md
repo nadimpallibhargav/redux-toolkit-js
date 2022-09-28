@@ -1,1 +1,1 @@
-# redux-toolkit-js
+Learning Redux Toolkit with only js, redux
